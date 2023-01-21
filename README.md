@@ -1,11 +1,18 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
+[![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Shrinivas Kulkarni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinivas989&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivas989" /> </p>
 
 <p align="left"> <a href="https://twitter.com/s_kulkarni99" target="blank"><img src="https://img.shields.io/twitter/follow/s_kulkarni99?logo=twitter&style=for-the-badge" alt="s_kulkarni99" /></a> </p>
+
+- 🔭 I’m currently working on **Data Structures and Algorithms**
+
+- 🌱 I’m currently learning **React, Node JS, SpringBoot**
+
+- 👯 I’m looking to collaborate on **Open source projects**
 
 - 💬 Ask me about **Java, HTML, CSS**
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrinivas Kulkarni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
 
@@ -19,7 +20,7 @@
 
 - 📫 How to reach me **shrinivaskulkarni789@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Shrinivas%20Kulkarni/Downloads/Shrinivas_Kulkarni.pdf](file:///C:/Users/Shrinivas%20Kulkarni/Downloads/Shrinivas_Kulkarni.pdf)
+- 📄 Know about my experiences/CV https://drive.google.com/file/d/1dGT43RMVf3cWmV_TAVK6vy7A-8tX8ood/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shrinivas Kulkarni</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there! Welcome to my GitHub Profile! ✨</h1>
+<h3 align="center"> My name is Shrinivas Kulkarni, an aspiring technophile. </h3>
 
 ![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 
